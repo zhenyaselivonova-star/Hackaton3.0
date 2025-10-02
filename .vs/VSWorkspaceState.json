@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv\\Lib",
+    "\\.venv\\Lib\\site-packages",
+    "\\.venv\\Lib\\site-packages\\ExifRead-3.0.0.dist-info",
+    "\\.venv\\Lib\\site-packages\\GeoAlchemy2-0.14.1.dist-info",
+    "\\.venv\\Lib\\site-packages\\PIL",
+    "\\.venv\\Lib\\site-packages\\Pillow-10.1.0.dist-info",
+    "\\.venv\\Lib\\site-packages\\PyJWT-2.10.1.dist-info",
+    "\\.venv\\Lib\\site-packages\\SQLAlchemy-2.0.23.dist-info",
+    "\\.venv\\Lib\\site-packages\\_distutils_hack"
+  ],
+  "SelectedNode": "\\.venv",
+  "PreviewInSolutionExplorer": false
+}
